@@ -1,0 +1,7 @@
+/data/*
+!/data/.gitkeep
+/figures/*
+!/figures/.gitkeep
+/Manifest.toml
+*.tmp
+.DS_Store
